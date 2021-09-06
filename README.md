@@ -54,6 +54,7 @@ For performing the inference in Tensorflow, check my other repository **[HITNET 
  
 # [Inference video Example](https://youtu.be/ge2iN8Ga4Dg) 
  ![!Hitnet stereo depth estimation on video](https://github.com/ibaiGorordo/HITNET-Stereo-Depth-estimation/blob/main/doc/img/hitnetDepthEstimation.gif)
+(Taken from the Tensorflow version)
 
 # References:
 * Hitnet model: https://github.com/google-research/google-research/tree/master/hitnet
