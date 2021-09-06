@@ -14,7 +14,7 @@ pip install -r requirements.txt
 pip install pafy youtube-dl
 ```
 
-For the tflite runtime, you can either use tensorflow(make sure it is version 2.6.0 or above) `pip install tensorflow==2.6.0` or the [TensorFlow Runtime](https://www.tensorflow.org/lite/guide/python)
+For the tflite runtime, you can either use tensorflow(make sure it is version 2.6.0 or above) `pip install tensorflow==2.6.0` or the [TensorFlow Runtime binary](https://github.com/PINTO0309/TensorflowLite-bin)
 
 # Known issues
 In computers with a GPU, the program would silently creash without any error during the inference, `os.environ["CUDA_VISIBLE_DEVICES"]="-1"` is added at the beginning of the script to force the program to run on the CPU. You can comment this line for other types of devices.
