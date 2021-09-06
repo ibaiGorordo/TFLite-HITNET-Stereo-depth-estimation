@@ -50,8 +50,8 @@ The Tensorflow pretrained model was taken from the [original repository](https:/
 For performing the inference in Tensorflow, check my other repository **[HITNET Stereo Depth estimation](https://github.com/ibaiGorordo/HITNET-Stereo-Depth-estimation)**.
 
 # ONNX inference
+For performing the inference in ONNX, check my other repository **[ONNX HITNET Stereo Depth estimation](https://github.com/ibaiGorordo/ONNX-HITNET-Stereo-Depth-estimation)**.
 
- 
 # [Inference video Example Raspberry Pi 4](https://youtu.be/-6zhFs9X8Rg) 
  ![Hitnet stereo depth estimation on video Raspberry Pi 4](https://github.com/ibaiGorordo/TFLite-HITNET-Stereo-depth-estimation/blob/main/docs/img/Pi4tfliteHitnetDepthEstimation.gif)
 
