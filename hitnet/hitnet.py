@@ -30,7 +30,7 @@ class HitNet():
 
 		self.model_type = model_type
 
-		self.interpreter = Interpreter(model_path=model_path)
+		self.interpreter = Interpreter(model_path=model_path, num_threads=4)
 		self.interpreter.allocate_tensors()
 
 		# Get model info
